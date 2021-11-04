@@ -1,4 +1,4 @@
 # cv2
-opencv-python
+python3-opencv
 pillow
 streamlit
