@@ -1,4 +1,4 @@
-# cv2
-opencv
+cv2
+# opencv
 pillow
 streamlit
