@@ -1,9 +1,11 @@
 # cv2
 # opencv-python
 # opencv-contrib-python
+# 上記ではエラーとなるので以下に変更
+opencv-python-headless
+
 # pillow
 streamlit
-opencv-python-headless
 
 
 # YOLOv3 requirements.txt
