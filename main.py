@@ -44,7 +44,7 @@ st.title('簡易ケーブルコネクタ種類判別')
 - RJ_45
 - USB_Micro_B
 - USB_Micro_B_3.1
-- USB_Micro_B_W
+- USB_Micro_B_W (両面差し可能Micro-usb)
 - USB_Mini
 - USB_Type_A
 - USB_Type_B
